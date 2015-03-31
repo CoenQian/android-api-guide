@@ -2,7 +2,7 @@
 
 > 翻译：[JiongBull](https://github.com/JiongBull)  
  微博：[@JiongBull](http://weibo.com/jiongbull/)  
- 索引：[Android API Guide](https://github.com/JiongBull/Android-API-Guide/blob/master/README.md)
+ 索引：[Android API Guide](https://github.com/JiongBull/Android-API-Guide)
 
 
 
