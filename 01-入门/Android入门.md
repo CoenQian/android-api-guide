@@ -1,10 +1,10 @@
-#Android入门
+# Android入门
 
-> 翻译：[JiongBull](https://github.com/JiongBull)
-> 微博：[@JiongBull](http://weibo.com/jiongbull/)
-> 索引：[Android API Guide](https://github.com/JiongBull/Android-API-Guide/blob/master/README.md)
+> 翻译：[JiongBull](https://github.com/JiongBull)  
+ 微博：[@JiongBull](http://weibo.com/jiongbull/)  
+ 索引：[Android API Guide](https://github.com/JiongBull/Android-API-Guide/blob/master/README.md)
 
----
+
 
 Android提供了一种富应用框架，你可以在Java语言环境下为移动设备构建富有新意的应用和游戏。左边导航栏中列举的文档提供了关于如何使用Android种类繁多的API构建应用的细节。
 
@@ -12,8 +12,6 @@ Android提供了一种富应用框架，你可以在Java语言环境下为移动
 - 想要立即开始编码，请阅读[Building Your First App](http://developer.android.com/training/basics/firstapp/index.html)。
 
 如果你刚从事Android开发，理解下面关于Android应用框架的基本概念是非常重要的：
-
----
 
 ## 应用提供了多种入口
 
@@ -23,11 +21,9 @@ Android应用是由许多不同的组件组成的，并且这些组件都可以�
 
 **了解更多：**
 
-[App Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
-[Intents and Intent Filters](http://developer.android.com/guide/components/intents-filters.html)
-[Activities](http://developer.android.com/guide/components/activities.html)
-
----
+[App Fundamentals](http://developer.android.com/guide/components/fundamentals.html)  
+[Intents and Intent Filters](http://developer.android.com/guide/components/intents-filters.html)  
+[Activities](http://developer.android.com/guide/components/activities.html)  
 
 ## 应用可以适配多种设备
 
@@ -37,6 +33,6 @@ Android提供了自适应的应用框架，你可以针对不同的设备配置�
 
 **了解更多：**
 
-[Device Compatibility](http://developer.android.com/guide/practices/compatibility.html)
-[Resources Overview](http://developer.android.com/guide/topics/resources/overview.html)
-[User Interface Overview](http://developer.android.com/guide/topics/ui/overview.html)
+[Device Compatibility](http://developer.android.com/guide/practices/compatibility.html)  
+[Resources Overview](http://developer.android.com/guide/topics/resources/overview.html)  
+[User Interface Overview](http://developer.android.com/guide/topics/ui/overview.html)  
