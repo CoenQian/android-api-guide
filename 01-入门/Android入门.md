@@ -4,8 +4,6 @@
  微博：[@JiongBull](http://weibo.com/jiongbull/)  
  索引：[Android API Guide](https://github.com/JiongBull/Android-API-Guide)
 
-
-
 Android提供了一种富应用框架，你可以在Java语言环境下为移动设备构建富有新意的应用和游戏。左边导航栏中列举的文档提供了关于如何使用Android种类繁多的API构建应用的细节。
 
 - 想要学习应用是如何工作的，从[App Fundamentals](http://developer.android.com/guide/components/fundamentals.html)这里开始。
