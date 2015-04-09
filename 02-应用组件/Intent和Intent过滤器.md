@@ -37,7 +37,7 @@ intent filter是一种在应用manifest文件里的表达式，它说明了组�
 
 > **注意**：为了保证应用的安全性，在启动Service时请确保使用显式intent，并且不要为你的service声明intent filter。使用隐式intent启动service是有安全风险的，因为你不能确定什么service会响应你的intent，并且用户也不知道哪个service启动了。
 
-![intent-filters](https://raw.githubusercontent.com/JiongBull/Android-API-Guide/master/images/intent-filters@2x)
+![intent-filters](https://raw.githubusercontent.com/JiongBull/Android-API-Guide/master/images/intent-filters@2x.png)
 
 图1. 插图显示了隐式intent如何通过系统分发来启动其他的activity：[1] Activity A创建带操作描述的[Intent](http://developer.android.com/reference/android/content/Intent.html)，然后把它传递给[startActivity()](http://developer.android.com/reference/android/content/Context.html#startActivity(android.content.Intent))。 [2] Android系统搜索所有的应用来寻找匹配该intent的intent filter。当有匹配时，[3] 系统通过把[Intent](http://developer.android.com/reference/android/content/Context.html#startActivity(android.content.Intent))传递给匹配的activity（Activity B）然后调用它的[onCreate()](http://developer.android.com/reference/android/app/Activity.html#onCreate(android.os.Bundle))方法启动它。
 
@@ -202,7 +202,7 @@ if (sendIntent.resolveActivity(getPackageManager()) != null) {
 
 然后就会显示一个对话框，内容是可以响应通过[createChooser()](http://developer.android.com/reference/android/content/Intent.html#createChooser(android.content.Intent,%20java.lang.CharSequence))方法传递过去的intent的应用列表，标题是传递的文本信息。
 
-![intent-chooser](https://raw.githubusercontent.com/JiongBull/Android-API-Guide/master/images/intent-chooser)
+![intent-chooser](https://raw.githubusercontent.com/JiongBull/Android-API-Guide/master/images/intent-chooser.png)
 
 图2. 选择对话框。
 
