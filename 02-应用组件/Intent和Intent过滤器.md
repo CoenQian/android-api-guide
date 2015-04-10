@@ -305,7 +305,7 @@ if (sendIntent.resolveActivity(getPackageManager()) != null) {
 
 pending intent的主要使用情形包括：
 
-- 声明在用户对[Notification](http://developer.android.com/guide/topics/ui/notifiers/notifications.html)执行操作时，执行某个intent（Android系统会执行[NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html)这个[Intent](http://developer.android.com/reference/android/content/Intent.html)。
+- 声明在用户对[Notification](http://developer.android.com/guide/topics/ui/notifiers/notifications.html)执行操作时，执行某个intent（Android系统会执行[NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html)这个[Intent](http://developer.android.com/reference/android/content/Intent.html)）。
 - 声明在用户对[App Widget](http://developer.android.com/guide/topics/appwidgets/index.html)执行操作时，执行某个intent（桌面应用会执行这个[Intent](http://developer.android.com/reference/android/content/Intent.html)）。
 - 声明会在未来的某个时间执行该intent（Android系统的[AlarmManager](http://developer.android.com/reference/android/app/AlarmManager.html)会执行这个[Intent](http://developer.android.com/reference/android/content/Intent.html)）。
 
