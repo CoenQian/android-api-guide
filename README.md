@@ -7,3 +7,4 @@
 * [应用组件](https://github.com/JiongBull/Android-API-Guide/blob/master/02-应用组件/应用组件.md)	
 	* [Intent和Intent过滤器](https://github.com/JiongBull/Android-API-Guide/blob/master/02-应用组件/Intent和Intent过滤器.md)	
 	* [常用Intent](https://github.com/JiongBull/Android-API-Guide/blob/master/02-应用组件/常用Intent.md)	
+	* [Activity](https://github.com/JiongBull/Android-API-Guide/blob/master/02-应用组件/Activity.md)	
